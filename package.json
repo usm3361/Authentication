@@ -1,0 +1,26 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usm3361/Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/usm3361/Authentication/issues"
+  },
+  "homepage": "https://github.com/usm3361/Authentication#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
